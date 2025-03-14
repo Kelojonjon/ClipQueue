@@ -53,8 +53,7 @@ def copy_que():
         next_item = que_to_clipboard.get()
         pyperclip.copy(next_item)  # Copy next item to clipboard
         print(f"✅ Clipboard: {next_item}")
-
-        # ✅ Only wait for ALT GR before moving to the next item
+            
         if not que_to_clipboard.empty():
             keyboard.wait("alt gr")
     
