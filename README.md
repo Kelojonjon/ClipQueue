@@ -41,9 +41,5 @@ Run the script and start using immediately.
 
 ---
 
-### **Get Started**  
-ClipQueue is open-source and lightweight, built for productivity without distractions. Fork, contribute, or modify as needed.  
+Fork, contribute, or modify as needed.  
 
----
-
-🔗 **Download and use ClipQueue today.** 🚀
